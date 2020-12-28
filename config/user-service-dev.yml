@@ -21,13 +21,13 @@ management:
         include: refresh
 
       
----
+
 spring:
   profiles: user1
   
 server:
   port: 8101      
----
+
 spring:
   profiles: user2
 server:
